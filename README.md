@@ -35,7 +35,7 @@ Projeyi yerel makinenizde çalıştırmak için:
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adiniz/aml-xgboost.git
+   git clone https://github.com/izcn1/aml-fraud-detection-xgboost.git
    ```
 2. Gerekli kütüphaneleri yükleyin:
    ```bash
